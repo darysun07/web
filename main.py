@@ -61,7 +61,7 @@ def bootstrap():
                     <title>Привет, Яндекс!</title>
                   </head>
                   <body>
-                    <h1>Привет, Яндекс!</h1>
+                    <h1>Жди нас, Марс!</h1>
                     <img src="{url_for('static', filename='img/mars.jpg')}"
                     alt="Картинку сьел яндекс. Добавьте свою">
                     <div class="alert alert-dark" role="alert">
